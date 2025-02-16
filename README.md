@@ -1,1 +1,1 @@
-# This will be a project lesson on bitcoin price with Javascript.
+# Displays current Bitcoin price and has currency selector.
