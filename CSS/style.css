@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(0, 0, 0, 0.873);
+  }
+  
+  h1 {
+    color: rgb(238, 203, 7);
+    text-align: center;
+  }
+  
+  p {
+    color: whitesmoke;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .flex-container {
+    display: flex;
+    justify-content: center;
+  }

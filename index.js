@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function() {
    toggleButton.addEventListener("click", togglePriceVisibility);
 
    // Set up intervals for automatic updates
-   setInterval(fetchBitcoinPrice, 3000);  // Update price every 3 seconds
+   setInterval(fetchBitcoinPrice, 1000);  // Update price every second
    setInterval(updateDateTime, 1000);     // Update date/time every second
 
    // Initial calls to display data immediately
